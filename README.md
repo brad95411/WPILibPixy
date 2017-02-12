@@ -20,3 +20,12 @@ sit there and cause problems.
 	<li>Multiple Pixys At Once?</li>
 	<li>Create Native Bindings to libpixyusb?</li>
 </ul>
+<br>
+<h3>Contributing to the Project</h3>
+<hr>
+<ul>
+	<li>COMMENTS, COMMENTS, COMMENTS</li>
+	<li>Keep your code clean, appropriate white-spacing, brackets, etc.</li>
+	<li>Commits and Pull Requests should clearly define what you're changing and why, it'll help when dealing with translations later</li>
+	<li>Seriously though, write comments...</li>
+</ul>
