@@ -173,7 +173,7 @@ public class PixyDetection {
 	/**
 	 * Returns the signature number, the center X and Y position, and the object width and height as a String
 	 * 
-	 * @Return signature number, center X and Y position, and width and height as a String
+	 * @return signature number, center X and Y position, and width and height as a String
 	 */
 	public String toString()
 	{
