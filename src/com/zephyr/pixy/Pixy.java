@@ -47,7 +47,7 @@ public class Pixy {
 	/**
 	 * The default maximum number of objects that can be detected by the Pixy at one time
 	 */
-	public static final int DEFAULT_MAX_OBJECTS = 7;
+	public static final int DEFAULT_MAX_OBJECTS = 1000;
 	
 	/**
 	 * The value of a normal detection sync word
@@ -391,7 +391,7 @@ public class Pixy {
 			//Validate the checksum, if it's ok, then setup that value with a new PixyDetection object
 			if(checksum == sum)
 			{
-				detections[signatureNumber] = new PixyDetection(blockType, 
+				detections[i] = new PixyDetection(blockType, 
 					signatureNumber, xCenter, yCenter, objectWidth, objectHeight, angle);
 			}
 			else //Otherwise display a warning in the RIOlog

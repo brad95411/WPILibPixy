@@ -13,7 +13,7 @@ sit there and cause problems.
 <hr>
 <ul>
 	<li>Test UART</li>
-	<li>Test I2C</li>
+	<li>Test I2C (Partially Tested, Thanks Ethan Pullen! (Team 2648, Infinite Loop)</li>
 	<li>Test SPI (See the TODO markers littered about the project on this one, the SPI communication is weird)</li>
 	<li>C++ Translation</li>
 	<li>LabVIEW Translation</li>
