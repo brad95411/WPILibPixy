@@ -1,4 +1,9 @@
-#WPILibPixy
+#This project is closed
+While I suspect there will be some teams who continue to use the PixyCam, the Limelight camera is much better in terms of usability and already comes with libraries available. Another contributing factor is the main github for PixyCam is sparsely updated, it does not seem like the team who initially created it wishes to continue work on it. 
+
+I may try to finish the Java version of this library if I find the spare time, but right now it doesn't seem worth it given the quality of the camera itself and the laxidasical nature of the team working on it. 
+
+###WPILibPixy
 <hr>
 The objective of this project is to make it much easier for teams to interface with the Pixy cam. 
 I can't really confirm the functionality of this library right now, but I hope within the next couple of months
